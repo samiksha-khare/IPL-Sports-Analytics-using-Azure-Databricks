@@ -9,8 +9,9 @@ The pipeline leverages **Azure Data Factory** for data ingestion, **Azure Data L
 
 The goal is to build a scalable data pipeline that enables analysis of player performance, team statistics, match outcomes, and tournament trends.
 
-## Workflow
-![Workflow](IPL Cricket Data Engineering Pipeline.png)
+## Architecture
+
+![Architecture](IPL Cricket Data Engineering Pipeline.png)
 
 ## Tech Stack
 
