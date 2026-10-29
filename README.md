@@ -11,7 +11,7 @@ The goal is to build a scalable data pipeline that enables analysis of player pe
 
 ## Architecture
 
-![Architecture](IPL Cricket Data Engineering Pipeline.png)
+![Architecture](IPL%20Cricket%20Data%20Engineering%20Pipeline.png)
 
 ## Tech Stack
 
